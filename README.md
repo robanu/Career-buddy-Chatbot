@@ -7,3 +7,4 @@ This is the link to the official submission which includes more details as well 
 
 https://devpost.com/software/career-buddy-q1l5f9
 
+[![CareerBuddy Vidya](https://img.youtube.com/vi/rdnf-K98dRc/0.jpg)](https://www.youtube.com/watch?v=rdnf-K98dRc&t=6s)
